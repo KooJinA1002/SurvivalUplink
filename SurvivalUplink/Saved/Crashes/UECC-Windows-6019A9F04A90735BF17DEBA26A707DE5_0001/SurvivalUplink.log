@@ -1,0 +1,1031 @@
+﻿Log file open, 12/05/24 21:15:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4460)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SurvivalUplink
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:\DEPOT\SurvivalUplink\SurvivalUplink\SurvivalUplink.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4460] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600X 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ac4e91014b8dc8a61922958bfa3987be"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.244707
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6019A9F04A90735BF17DEBA26A707DE5
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (23H2) [10.0.22631.4460] (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.12.05-12.15.32:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.12.05-12.15.32:854][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.12.05-12.15.32:854][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.12.05-12.15.32:854][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.12.05-12.15.32:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.12.05-12.15.32:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.12.05-12.15.32:854][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.12.05-12.15.32:854][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.12.05-12.15.32:854][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.12.05-12.15.32:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.12.05-12.15.32:855][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.12.05-12.15.32:856][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.12.05-12.15.32:869][  0]LogD3D12RHI: Aftermath initialized
+[2024.12.05-12.15.32:869][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.12.05-12.15.33:034][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2024.12.05-12.15.33:034][  0]LogD3D12RHI: Adapter has 10053MB of dedicated video memory, 0MB of dedicated system memory, and 32731MB of shared system memory, 1 output[s]
+[2024.12.05-12.15.33:045][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.12.05-12.15.33:045][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32731MB of shared system memory, 0 output[s]
+[2024.12.05-12.15.33:045][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.12.05-12.15.33:045][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.12.05-12.15.33:045][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.12.05-12.15.33:045][  0]LogHAL: Display: Platform has ~ 64 GB [68642377728 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.12.05-12.15.33:045][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.12.05-12.15.33:045][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.05-12.15.33:046][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.12.05-12.15.33:046][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.12.05-12.15.33:046][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/DEPOT/SurvivalUplink/SurvivalUplink/Saved/Config/WindowsEditor/Editor.ini]
+[2024.12.05-12.15.33:046][  0]LogInit: Computer: KOO
+[2024.12.05-12.15.33:046][  0]LogInit: User: kooja
+[2024.12.05-12.15.33:046][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.12.05-12.15.33:046][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.12.05-12.15.33:046][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2024.12.05-12.15.33:046][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.12.05-12.15.33:046][  0]LogMemory: Process Physical Memory: 272.05 MB used, 285.67 MB peak
+[2024.12.05-12.15.33:046][  0]LogMemory: Process Virtual Memory: 232.01 MB used, 232.01 MB peak
+[2024.12.05-12.15.33:046][  0]LogMemory: Physical Memory: 10247.47 MB used,  55215.00 MB free, 65462.47 MB total
+[2024.12.05-12.15.33:046][  0]LogMemory: Virtual Memory: 12123.54 MB used,  57434.93 MB free, 69558.47 MB total
+[2024.12.05-12.15.33:046][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.12.05-12.15.33:052][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.12.05-12.15.33:067][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.12.05-12.15.33:067][  0]LogInit: Using OS detected language (ko-KR).
+[2024.12.05-12.15.33:067][  0]LogInit: Using OS detected locale (ko-KR).
+[2024.12.05-12.15.33:073][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2024.12.05-12.15.33:176][  0]LogInit: Setting process to per monitor DPI aware
+[2024.12.05-12.15.33:187][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.12.05-12.15.33:187][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.12.05-12.15.33:187][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.12.05-12.15.33:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.12.05-12.15.33:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.12.05-12.15.33:316][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.12.05-12.15.33:319][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.12.05-12.15.33:319][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.12.05-12.15.33:419][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.12.05-12.15.33:476][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.12.05-12.15.33:484][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.12.05-12.15.33:507][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.12.05-12.15.33:519][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.12.05-12.15.33:519][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.12.05-12.15.33:541][  0]LogD3D12RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2024.12.05-12.15.33:541][  0]LogWindows: Attached monitors:
+[2024.12.05-12.15.33:541][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.12.05-12.15.33:541][  0]LogWindows: Found 1 attached monitors.
+[2024.12.05-12.15.33:541][  0]LogWindows: EnumDisplayDevices:
+[2024.12.05-12.15.33:541][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.12.05-12.15.33:541][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.12.05-12.15.33:541][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.12.05-12.15.33:541][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.12.05-12.15.33:541][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.12.05-12.15.33:541][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2024.12.05-12.15.33:541][  0]LogD3D12RHI:   Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+[2024.12.05-12.15.33:541][  0]LogD3D12RHI:      Driver Date: 8-14-2024
+[2024.12.05-12.15.33:541][  0]LogRHI: Texture pool is 5849 MB (70% of 8356 MB)
+[2024.12.05-12.15.33:541][  0]LogD3D12RHI: Async texture creation enabled
+[2024.12.05-12.15.33:541][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.12.05-12.15.33:549][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.12.05-12.15.33:555][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/DEPOT/SurvivalUplink/SurvivalUplink/SurvivalUplink.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/TurnkeyReport_0.log" -log="E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/TurnkeyLog_0.log" -project="E:/DEPOT/SurvivalUplink/SurvivalUplink/SurvivalUplink.uproject"  -platform=all'
+[2024.12.05-12.15.33:555][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/DEPOT/SurvivalUplink/SurvivalUplink/SurvivalUplink.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/TurnkeyReport_0.log" -log="E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/TurnkeyLog_0.log" -project="E:/DEPOT/SurvivalUplink/SurvivalUplink/SurvivalUplink.uproject"  -platform=all" ]
+[2024.12.05-12.15.33:581][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.12.05-12.15.33:587][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.12.05-12.15.33:587][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.12.05-12.15.33:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.12.05-12.15.33:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.12.05-12.15.33:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.12.05-12.15.33:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.12.05-12.15.33:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.12.05-12.15.33:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.12.05-12.15.33:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.12.05-12.15.33:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.12.05-12.15.33:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.12.05-12.15.33:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.12.05-12.15.33:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.12.05-12.15.33:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.12.05-12.15.33:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.12.05-12.15.33:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.12.05-12.15.33:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.12.05-12.15.33:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.12.05-12.15.33:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.12.05-12.15.33:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.12.05-12.15.33:633][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.12.05-12.15.33:640][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.12.05-12.15.33:642][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.12.05-12.15.33:642][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.12.05-12.15.33:642][  0]LogTargetPlatformManager:   ADPCM
+[2024.12.05-12.15.33:642][  0]LogTargetPlatformManager:   PCM
+[2024.12.05-12.15.33:645][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.12.05-12.15.33:645][  0]LogTargetPlatformManager:   BINKA
+[2024.12.05-12.15.33:645][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.12.05-12.15.33:645][  0]LogTargetPlatformManager:   OGG
+[2024.12.05-12.15.33:645][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.12.05-12.15.33:645][  0]LogTargetPlatformManager:   OPUS
+[2024.12.05-12.15.33:677][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.12.05-12.15.33:677][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.12.05-12.15.33:682][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.12.05-12.15.33:685][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.12.05-12.15.33:685][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.12.05-12.15.33:685][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.12.05-12.15.33:685][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.12.05-12.15.33:685][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.12.05-12.15.33:685][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.12.05-12.15.33:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/DEPOT/SurvivalUplink/SurvivalUplink/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.12.05-12.15.33:687][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.12.05-12.15.33:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/DEPOT/SurvivalUplink/SurvivalUplink/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.12.05-12.15.33:687][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.12.05-12.15.33:705][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.12.05-12.15.33:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.12.05-12.15.33:705][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.12.05-12.15.33:711][  0]LogDerivedDataCache: Speed tests for C:/Users/kooja/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.12.05-12.15.33:711][  0]LogDerivedDataCache: Display: Performance to C:/Users/kooja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1177.86MBs, RandomWriteSpeed=196.40MBs. Assigned SpeedClass 'Local'
+[2024.12.05-12.15.33:712][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kooja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.12.05-12.15.33:712][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.12.05-12.15.33:712][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.12.05-12.15.33:718][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.12.05-12.15.33:718][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.12.05-12.15.33:718][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (E:/DEPOT/SurvivalUplink/SurvivalUplink/Intermediate/Shaders/WorkingDirectory/5316/).
+[2024.12.05-12.15.33:718][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kooja/AppData/Local/Temp/UnrealShaderWorkingDir/7BB9283E4548E6B23276F0B7A0D6B3AF/'.
+[2024.12.05-12.15.33:718][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.12.05-12.15.33:718][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2024.12.05-12.15.34:834][  0]LogSlate: Using FreeType 2.10.0
+[2024.12.05-12.15.34:834][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.12.05-12.15.34:863][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
+[2024.12.05-12.15.34:866][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.12.05-12.15.35:046][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.12.05-12.15.35:047][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.12.05-12.15.35:203][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.12.05-12.15.35:203][  0]LogDeviceProfileManager: Active device profile: [0000075936EE4440][000007592C937800 50] WindowsEditor
+[2024.12.05-12.15.35:203][  0]LogDeviceProfileManager: Profiles: [0000075936EE3F00][000007592C935000 50] Windows, [0000075936EE4440][000007592C937800 50] WindowsEditor, [0000075936EE0A80][000007592C8DA000 50] WindowsServer, [0000075936EE1DC0][000007592C932800 50] WindowsClient, [0000075936EE4280][0000075936F40000 50] IOS, [0000075936EE4600][0000075936F45000 50] iPadAir2, [0000075936EE5080][0000075936F4A000 50] IPadPro, [0000075936EE5400][0000075936F47800 50] iPadAir3, [0000075936EE2140][0000075936F4C800 50] iPadAir4, [0000075936EE0E00][0000075915F25000 50] iPadMini4, [0000075936EE1A40][0000075936F30000 50] iPadMini5, [0000075936EE01C0][0000075936F35000 50] iPadMini6, [0000075936EE7FC0][0000075936F3C800 50] iPhone6S, [0000075936EE8340][0000075936F3A000 50] iPhone7, [0000075936EE86C0][0000075936F37800 50] iPodTouch7, [0000075936EE4980][0000075936F42800 50] iPhone6SPlus, [0000075936EE08C0][0000075936F80000 50] iPhone7Plus, [0000075936EE6C80][0000075936F85000 50] iPhoneSE, [0000075936EE7380][0000075936F87800 50] iPhone8, [0000075936EE1340][0000075936F8A000 50] iPhone8Plus, [0000075936EE8880][0000075936F8C800 50] iPhoneX, [0000075936EE71C0][0000075936F32800 50] iPhoneXS, [0000075936EE6AC0][0000075936F50000 50] iPhoneXSMax, [0000075936EE8A40][0000075936F55000 50] iPhoneXR, [0000075936EE3D40][0000075936F57800 50] iPhone11, [0000075936EE6740][0000075936F5A000 50] iPhone11Pro, [0000075936EE5CC0][0000075936F5C800 50] iPhone11ProMax, [0000075936EE4B40][0000075936F82800 50] iPhoneSE2, [0000075936EE8180][0000075936F60000 50] iPhone12Mini, [0000075936EE6200][0000075936F65000 50] iPhone12, [0000075936EE2D80][0000075936F67800 50] iPhone12Pro, [0000075936EE8C00][0000075936F6A000 50] iPhone12ProMax, [0000075936EE0C40][0000075936F6C800 50] iPhone13Mini, [0000075936EE6900][0000075936F52800 50] iPhone13, [0000075936EE39C0][0000075936FA0000 50] iPhone13Pro, [0000075936EE16C0][0000075936FA5000 50] iPhone13ProMax, [0000075936EE55C0][0000075936FA7800 50] iPadPro105, [0000075936EE5E80][0000075936FAA000 50] iPadPro129, [0000075936EE8500][0000075936FAC800 50] iPadPro97, [0000075936EE5240][0000075936F62800 50] iPadPro2_129, [0000075936EE5780][0000075936FB0000 50] iPad5, [0000075936EE6040][0000075936FB5000 50] iPad6, [0000075936EE7700][0000075936FB7800 50] iPad7, [0000075936EE0000][0000075936FBA000 50] iPad8, [0000075936EE63C0][0000075936FBC800 50] iPad9, [0000075936EE4EC0][0000075936FA2800 50] iPadPro11, [0000075936EE3100][0000075936FC0000 50] iPadPro2_11, [0000075936EE1180][0000075936FC5000 50] iPadPro3_11, [0000075936EE78C0][0000075936FC7800 50] iPadPro3_129, [0000075936EE2BC0][0000075936FCA000 50] iPadPro4_129, [0000075936EE2840][0000075936FCC800 50] iPadPro5_129, [0000075936EE32C0][0000075936FB2800 50] AppleTV, [0000075936EE3800][0000075936FD0000 50] AppleTV4K, [0000075936EE7E00][0000075936FD5000 50] TVOS, [0000075936EEA2C0][0000075936FDA000 50] Mac, [0000075936EEA640][0000075936FD7800 50] MacEditor, [0000075936EE0700][0000075936FDC800 50] MacClient, [0000075936EE2F40][0000075936FC2800 50] MacServer, [0000075936EEA9C0][0000075936FF2800 50] Linux, [0000075936EE3B80][0000075936FF0000 50] LinuxEditor, [0000075936EE9680][0000075936FF7800 50] LinuxArm64Editor, [0000075936EEA480][0000075936FFA000 50] LinuxArm64, [0000075936EE8DC0][0000075936FFC800 50] LinuxClient, [0000075936EE24C0][0000075936FD2800 50] LinuxArm64Client, [0000075936EE9300][0000075936FE0000 50] LinuxServer, [0000075936EE1C00][0000075936FE5000 50] LinuxArm64Server, [0000075936EE7540][0000075936FE7800 50] Android, [0000075936EE7A80][0000075936FEA000 50] Android_Preview_OpenGL, [0000075936EE9F40][0000075936FEC800 50] Android_Preview_Vulkan, [0000075936EE4D00][0000075936FF5000 50] Android_Low, [0000075936EE0540][0000075936010000 50] Android_Mid, [0000075936EE9D80][0000075936015000 50] Android_High, [0000075936EE0FC0][0000075936017800 50] Android_Default, [0000075936EE5B00][000007593601A000 50] Android_Adreno4xx, [0000075936EE47C0][000007593601C800 50] Android_Adreno5xx_Low, [0000075936EE1500][0000075936FE2800 50] Android_Adreno5xx, [0000075936EE3640][0000075936020000 50] Android_Adreno6xx, [0000075936EEAB80][0000075936025000 50] Android_Adreno6xx_Vulkan, [0000075936EE9BC0][0000075936027800 50] Android_Adreno7xx, [0000075936EE94C0][000007593602A000 50] Android_Adreno7xx_Vulkan, [0000075936EEB440][000007593602C800 50] Android_Mali_T6xx, [0000075936EE9840][0000075936012800 50] Android_Mali_T7xx, [0000075936EE7C40][0000075936030000 50] Android_Mali_T8xx, [0000075936EE2300][0000075936035000 50] Android_Mali_G71, [0000075936EEB600][0000075936037800 50] Android_Mali_G72, [0000075936EE1F80][000007593603A000 50] Android_Mali_G72_Vulkan, [0000075936EEB980][000007593603C800 50] Android_Mali_G76, [0000075936EE6E40][0000075936022800 50] Android_Mali_G76_Vulkan, [0000075936EEA800][0000075936050000 50] Android_Mali_G77, [0000075936EEC400][0000075936055000 50] Android_Mali_G77_Vulkan, [0000075936EE1880][0000075936057800 50] Android_Mali_G78, [0000075936EE2A00][000007593605A000 50] Android_Mali_G78_Vulkan, [0000075936EE5940][000007593605C800 50] Android_Mali_G710, [0000075936EEC5C0][0000075936032800 50] Android_Mali_G710_Vulkan, [0000075936EE9140][0000075936060000 50] Android_Xclipse_920, [0000075936EEC940][0000075936065000 50] Android_Xclipse_920_Vulkan, [0000075936EEBB40][0000075936067800 50] Android_Vulkan_SM5, [0000075936EEBD00][000007593606A000 50] Android_PowerVR_G6xxx, [0000075936EED3C0][000007593606C800 50] Android_PowerVR_GT7xxx, [0000075936EEB7C0][0000075936052800 50] Android_PowerVR_GE8xxx, [0000075936EE3480][0000075936070000 50] Android_PowerVR_GM9xxx, [0000075936EE7000][0000075936075000 50] Android_PowerVR_GM9xxx_Vulkan, [0000075936EED580][0000075936077800 50] Android_TegraK1, [0000075936EEC080][000007593607A000 50] Android_Unknown_Vulkan, [0000075936EED900][000007593607C800 50] Oculus_Quest, [0000075936EEB280][0000075936062800 50] Oculus_Quest2, [0000075936EEE380][0000075936080000 50] HoloLens, 
+[2024.12.05-12.15.35:203][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.12.05-12.15.35:223][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.12.05-12.15.35:384][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.12.05-12.15.35:384][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.12.05-12.15.35:384][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.12.05-12.15.35:384][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.12.05-12.15.35:384][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.12.05-12.15.35:398][  0]LogNetVersion: SurvivalUplink 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 715718684)
+[2024.12.05-12.15.35:498][  0]LogSlate: Border
+[2024.12.05-12.15.35:498][  0]LogSlate: BreadcrumbButton
+[2024.12.05-12.15.35:498][  0]LogSlate: Default
+[2024.12.05-12.15.35:498][  0]LogSlate: Icons.Save
+[2024.12.05-12.15.35:498][  0]LogSlate: Icons.Toolbar.Settings
+[2024.12.05-12.15.35:498][  0]LogSlate: ListView
+[2024.12.05-12.15.35:498][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.12.05-12.15.35:498][  0]LogSlate: SoftwareCursor_Grab
+[2024.12.05-12.15.35:498][  0]LogSlate: TableView.DarkRow
+[2024.12.05-12.15.35:498][  0]LogSlate: TableView.Row
+[2024.12.05-12.15.35:498][  0]LogSlate: TreeView
+[2024.12.05-12.15.35:654][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.35:679][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.35:679][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.35:784][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.12.05-12.15.35:784][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2024.12.05-12.15.35:784][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.12.05-12.15.36:096][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3A9AA95F4F7EFFE43CB191928F98617F | Instance: 8C19AEAC4D84D7E00C4540B521295066 (KOO-5316).
+[2024.12.05-12.15.36:130][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.12.05-12.15.36:135][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.12.05-12.15.36:145][  0]LogPython: Using Python 3.9.7
+[2024.12.05-12.15.36:963][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.36:985][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.37:100][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.37:153][  0]LogUProjectInfo: Found projects:
+[2024.12.05-12.15.37:258][  0]LogOpenImageDenoise: OIDN starting up
+[2024.12.05-12.15.37:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.12.05-12.15.37:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.05-12.15.37:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.05-12.15.37:412][  0]LogCollectionManager: Loaded 0 collections in 0.001407 seconds
+[2024.12.05-12.15.37:497][  0]LogFileCache: Scanning file cache for directory 'E:/DEPOT/SurvivalUplink/SurvivalUplink/Saved/Collections/' took 0.00s
+[2024.12.05-12.15.37:497][  0]LogFileCache: Scanning file cache for directory 'E:/DEPOT/SurvivalUplink/SurvivalUplink/Content/Developers/kooja/Collections/' took 0.00s
+[2024.12.05-12.15.37:497][  0]LogFileCache: Scanning file cache for directory 'E:/DEPOT/SurvivalUplink/SurvivalUplink/Content/Collections/' took 0.00s
+[2024.12.05-12.15.37:771][  0]LogEngine: Initializing Engine...
+[2024.12.05-12.15.37:789][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.12.05-12.15.37:790][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.12.05-12.15.38:013][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.12.05-12.15.38:014][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.05-12.15.38:025][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.05-12.15.38:051][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.12.05-12.15.38:052][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.12.05-12.15.38:073][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.05-12.15.38:074][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-12.15.38:074][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-12.15.38:075][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-12.15.38:080][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-12.15.38:099][  0]LogAudioMixer: Display: Using Audio Hardware Device 컴퓨터 스피커(Realtek High Definition Audio)
+[2024.12.05-12.15.38:101][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-12.15.38:102][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-12.15.38:102][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-12.15.38:103][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.12.05-12.15.38:103][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.05-12.15.38:104][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.05-12.15.38:104][  0]LogInit: FAudioDevice initialized.
+[2024.12.05-12.15.38:104][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.12.05-12.15.38:104][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.05-12.15.38:104][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.12.05-12.15.38:104][  0]LogInit: Texture streaming: Enabled
+[2024.12.05-12.15.38:136][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.12.05-12.15.38:144][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.12.05-12.15.38:167][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.12.05-12.15.38:176][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.12.05-12.15.38:176][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.12.05-12.15.39:240][  0]LogLiveCoding: Display: First instance in process group "UE_SurvivalUplink_0x9c73359d", spawning console
+[2024.12.05-12.15.39:240][  0]LogLiveCoding: Display: Waiting for server
+[2024.12.05-12.15.39:240][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.12.05-12.15.39:254][  0]LogInit: Transaction tracking system initialized
+[2024.12.05-12.15.39:326][  0]BlueprintLog: New page: 에디터 로드
+[2024.12.05-12.15.39:503][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2024.12.05-12.15.39:545][  0]TimingProfiler: Initialize
+[2024.12.05-12.15.39:545][  0]TimingProfiler: OnSessionChanged
+[2024.12.05-12.15.39:545][  0]LoadingProfiler: Initialize
+[2024.12.05-12.15.39:545][  0]LoadingProfiler: OnSessionChanged
+[2024.12.05-12.15.39:545][  0]NetworkingProfiler: Initialize
+[2024.12.05-12.15.39:545][  0]NetworkingProfiler: OnSessionChanged
+[2024.12.05-12.15.39:545][  0]MemoryProfiler: Initialize
+[2024.12.05-12.15.39:545][  0]MemoryProfiler: OnSessionChanged
+[2024.12.05-12.15.40:117][  0]LogFileCache: Scanning file cache for directory 'E:/DEPOT/SurvivalUplink/SurvivalUplink/Content/' took 0.01s
+[2024.12.05-12.15.40:117][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.12.05-12.15.40:186][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.12.05-12.15.40:188][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.12.05-12.15.40:188][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.444
+[2024.12.05-12.15.40:188][  0]Cmd: MAP LOAD FILE="E:/DEPOT/SurvivalUplink/SurvivalUplink/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.05-12.15.40:188][  0]LightingResults: New page: 라이팅 빌드
+[2024.12.05-12.15.40:196][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-12.15.40:196][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-12.15.40:196][  0]MapCheck: New page: 맵 체크
+[2024.12.05-12.15.40:196][  0]LightingResults: New page: 라이팅 빌드
+[2024.12.05-12.15.40:200][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-12.15.40:202][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.05-12.15.40:370][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.12.05-12.15.40:375][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.05-12.15.40:376][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.12.05-12.15.40:376][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.05-12.15.40:376][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2024.12.05-12.15.40:487][  0]LogWorldPartition: Display: WorldPartition initialize took 110 ms
+[2024.12.05-12.15.40:491][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-12.15.40:496][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.05-12.15.40:497][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-12.15.40:497][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.133ms.
+[2024.12.05-12.15.40:497][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.308
+[2024.12.05-12.15.40:506][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.761
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: ================================================
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.12.05-12.15.40:506][  0]LogShaderCompilers: Display: ================================================
+[2024.12.05-12.15.40:562][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.12.05-12.15.40:589][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-12.15.40:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-12.15.40:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-12.15.40:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:641][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:642][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:643][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:643][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:643][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:643][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:643][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:643][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:644][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:644][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:644][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:644][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:645][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.12.05-12.15.40:645][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.05-12.15.40:645][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.12.05-12.15.40:749][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.05-12.15.40:751][  0]LogSlate: Took 0.001192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2024.12.05-12.15.40:753][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.05-12.15.40:754][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.05-12.15.40:755][  0]LogSlate: Took 0.000956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2024.12.05-12.15.40:756][  0]LogSlate: Took 0.000866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2024.12.05-12.15.40:769][  0]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2024.12.05-12.15.41:391][  0]LogStall: Startup...
+[2024.12.05-12.15.41:393][  0]LogStall: Startup complete.
+[2024.12.05-12.15.41:415][  0]LogLoad: (Engine Initialization) Total time: 9.67 seconds
+[2024.12.05-12.15.41:415][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.12.05-12.15.41:456][  0]LogAssetRegistry: Asset discovery search completed in 6.5953 seconds
+[2024.12.05-12.15.41:463][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2024.12.05-12.15.41:465][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.12.05-12.15.41:494][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.12.05-12.17.33:827][ 45]LogDerivedDataCache: C:/Users/kooja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 file(s) with total size 0 MiB.
+[2024.12.05-12.23.58:383][466]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.05-12.23.58:387][466]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.05-12.24.35:721][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.05-12.24.35:939][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/RockFloorHeightMap.RockFloorHeightMap(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.35:939][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/TilingNoise03.TilingNoise03(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.35:939][810]LogMaterial: Display: Missing cached shadermap for Paint_Ground in PCD3D_SM5, High, SM5 (DDC key hash: 8278412D5B7FEED8D73ED9BABB4F86169397340B), compiling. 
+[2024.12.05-12.24.36:103][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/T_SandDunes_D.T_SandDunes_D(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.36:103][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/RockFloor_BaseColor.RockFloor_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.36:103][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/RockFloor_Normal.RockFloor_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.36:103][810]LogMaterial: Display: Missing cached shadermap for Enviro_Substance_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 2C3401DDA0311AADE7E72EA2E9C7579F4A22D898), compiling. 
+[2024.12.05-12.24.36:216][810]LogMaterial: Display: Missing cached shadermap for Enviro_Int_WorldUV_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6F1CF99D524357154A6E2FEBE229BABF245CD0FC), compiling. 
+[2024.12.05-12.24.36:317][810]LogMaterial: Display: Missing cached shadermap for Enviro_WorldUV_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 505D9B45B9C1658A09D9184B2320BABBA6A82DF5), compiling. 
+[2024.12.05-12.24.36:387][810]LogMaterial: Display: Missing cached shadermap for Enviro_Substance_Alpha_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C3710EE36EF6BDF24A4076738D720AE9C378001A), compiling. 
+[2024.12.05-12.24.36:545][810]LogStaticMesh: Display: Skyline 스태틱 메시 빌드 중...
+[2024.12.05-12.24.36:545][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/T_SandDunes_N.T_SandDunes_N(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.36:545][810]LogStaticMesh: Display: Coirridor_A_Shrine02 스태틱 메시 빌드 중...
+[2024.12.05-12.24.36:545][810]LogMaterial: Display: Missing cached shadermap for Lum_material in PCD3D_SM5, Default, SM5 (DDC key hash: 5BDE65CC9D4D4653C7E796C01D3CC7A31F7F5C23), compiling. 
+[2024.12.05-12.24.36:667][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/TilePattern07_D.TilePattern07_D(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.36:667][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/TilePattern07_M.TilePattern07_M(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.36:667][810]LogMaterial: Display: Missing cached shadermap for Cloth_Substance_material in PCD3D_SM5, Default, SM5 (DDC key hash: 02A59319B55154D55B2168560696B43D80A07968), compiling. 
+[2024.12.05-12.24.36:764][810]LogMaterial: Display: Missing cached shadermap for Cloth_Red_inst7 in PCD3D_SM5, Default, SM5 (DDC key hash: 90F4E741DABBA5A756723F5C1D6F191E3A5B5B8A), compiling. 
+[2024.12.05-12.24.36:876][810]LogStaticMesh: Built static mesh [0.34s] /Game/City_of_Brass_Enviroment/Meshes/Backgound/Skyline.Skyline
+[2024.12.05-12.24.36:876][810]LogStaticMesh: Display: Coirridor_A_Shrine03 스태틱 메시 빌드 중...
+[2024.12.05-12.24.36:876][810]LogMaterial: Display: Missing cached shadermap for base_material in PCD3D_SM5, Default, SM5 (DDC key hash: E5CEB35C152B88EB62D5ECFD28A9690B3FA68BC3), compiling. 
+[2024.12.05-12.24.36:967][810]LogStaticMesh: Display: Coirridor_A_Span_1200 스태틱 메시 빌드 중...
+[2024.12.05-12.24.36:967][810]LogMaterial: Display: Missing cached shadermap for ArchWindow_D_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1AED563256BB1D4DBF5B097F60DD18319E1A2084), compiling. 
+[2024.12.05-12.24.37:012][810]LogMaterial: Display: Missing cached shadermap for M_Streaks_Decal in PCD3D_SM5, Default, SM5 (DDC key hash: 572B64514D048993D096435D8976E3FE4B9E1719), compiling. 
+[2024.12.05-12.24.37:133][810]LogStaticMesh: Display: Coirridor_A_Span_1600 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:133][810]LogStaticMesh: Display: Coirridor_A_Span_800 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:133][810]LogMaterial: Display: Missing cached shadermap for Streaks01_D_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BDDAB4BDAF80DB183A930F50687A2D7C8E8F2385), compiling. 
+[2024.12.05-12.24.37:186][810]LogMaterial: Display: Missing cached shadermap for Foliage_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C0C46C4DBF80DC6E8EC2A052BDC78EB3ADE4D24D), compiling. 
+[2024.12.05-12.24.37:354][810]LogStaticMesh: Built static mesh [0.37s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_Span_1200.Coirridor_A_Span_1200
+[2024.12.05-12.24.37:354][810]LogStaticMesh: Display: Coirridor_A_WallShort_200_Railing 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:354][810]LogMaterial: Display: Missing cached shadermap for Lum_Pattern_material in PCD3D_SM5, Default, SM5 (DDC key hash: 42D4558D0163CB70811E58E81DB560F903DA9320), compiling. 
+[2024.12.05-12.24.37:477][810]LogStaticMesh: Built static mesh [0.12s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_WallShort_200_Railing.Coirridor_A_WallShort_200_Railing
+[2024.12.05-12.24.37:478][810]LogStaticMesh: Display: Coirridor_A_WallShort_200B 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:478][810]LogMaterial: Display: Missing cached shadermap for Useable_Shader in PCD3D_SM5, Default, SM5 (DDC key hash: EA466015D0089B038F48D464D8E702CB4528F32E), compiling. 
+[2024.12.05-12.24.37:569][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_WallShort_200B.Coirridor_A_WallShort_200B
+[2024.12.05-12.24.37:569][810]LogStaticMesh: Display: Coirridor_A_WallShort_400_Light 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:569][810]LogStaticMesh: Built static mesh [0.37s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_Span_800.Coirridor_A_Span_800
+[2024.12.05-12.24.37:569][810]LogStaticMesh: Display: Coirridor_A_WallShort_400_Pillar 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:569][810]LogStaticMesh: Built static mesh [0.03s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_WallShort_400_Light.Coirridor_A_WallShort_400_Light
+[2024.12.05-12.24.37:569][810]LogStaticMesh: Display: Coirridor_A_WallShort_400_Pillar_Cap 스태틱 메시 빌드 중...
+[2024.12.05-12.24.37:569][810]LogMaterial: Display: Missing cached shadermap for M_Flag in PCD3D_SM5, Default, SM5 (DDC key hash: 7FFFF5D6C37FDD470CB04E767F8E73B88DB3497A), compiling. 
+[2024.12.05-12.24.37:659][810]LogAssetEditorSubsystem: Opening Asset editor for World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2024.12.05-12.24.37:660][810]Cmd: MAP LOAD FILE="E:/DEPOT/SurvivalUplink/SurvivalUplink/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.05-12.24.37:660][810]LightingResults: New page: 라이팅 빌드
+[2024.12.05-12.24.37:660][810]LoadErrors: New page: 맵 로드중: Demo_Streets.umap
+[2024.12.05-12.24.37:662][810]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-12.24.37:662][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-12.24.37:665][810]MapCheck: New page: 맵 체크
+[2024.12.05-12.24.37:665][810]LightingResults: New page: 라이팅 빌드
+[2024.12.05-12.24.37:673][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-12.24.37:680][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-12.24.37:703][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 8/117 (/Game/City_of_Brass_Enviroment/Textures/TilePattern07_N)...
+[2024.12.05-12.24.38:066][810]LogStaticMesh: Built static mesh [0.86s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_Span_1600.Coirridor_A_Span_1600
+[2024.12.05-12.24.38:066][810]LogStaticMesh: Built static mesh [1.48s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_Shrine02.Coirridor_A_Shrine02
+[2024.12.05-12.24.38:066][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/TilePattern07_N.TilePattern07_N(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:254][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Pattern09_M.Pattern09_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:254][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Pattern09_N.Pattern09_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:254][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 10/117 (/Game/City_of_Brass_Enviroment/Textures/Pattern09_N)...
+[2024.12.05-12.24.38:277][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Pattern09_Variant_D.Pattern09_Variant_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:278][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 11/117 (/Game/City_of_Brass_Enviroment/Textures/Pattern09_Variant_D)...
+[2024.12.05-12.24.38:336][810]LogStaticMesh: Built static mesh [0.75s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_WallShort_400_Pillar_Cap.Coirridor_A_WallShort_400_Pillar_Cap
+[2024.12.05-12.24.38:336][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stall01_M.Stall01_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:336][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stall01_D.Stall01_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:336][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 12/117 (/Game/City_of_Brass_Enviroment/Textures/Stall01_D)...
+[2024.12.05-12.24.38:420][810]LogStaticMesh: Built static mesh [0.84s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_WallShort_400_Pillar.Coirridor_A_WallShort_400_Pillar
+[2024.12.05-12.24.38:420][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stall01_N.Stall01_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:420][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Brass_D.Brass_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:420][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 14/117 (/Game/City_of_Brass_Enviroment/Textures/Stall01_N)...
+[2024.12.05-12.24.38:449][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Brass_M.Brass_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:449][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Brass_N.Brass_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:449][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 15/117 (/Game/City_of_Brass_Enviroment/Textures/Brass_D)...
+[2024.12.05-12.24.38:483][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_D.CityWall_Pillar_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:549][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 18/117 (/Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_D)...
+[2024.12.05-12.24.38:576][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_M.CityWall_Pillar_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:576][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_N.CityWall_Pillar_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:576][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Top_D.CityWall_Top_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:576][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 19/117 (/Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_M)...
+[2024.12.05-12.24.38:622][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Top_M.CityWall_Top_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:622][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 20/117 (/Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_N)...
+[2024.12.05-12.24.38:649][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 21/117 (/Game/City_of_Brass_Enviroment/Textures/CityWall_Top_D)...
+[2024.12.05-12.24.38:697][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/Sand_World_Mask.Sand_World_Mask(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:697][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Top_N.CityWall_Top_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:717][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 23/117 (/Game/City_of_Brass_Enviroment/Textures/CityWall_Top_N)...
+[2024.12.05-12.24.38:757][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 25/117 (/Game/City_of_Brass_Enviroment/Textures/Bricks01_Marble01_Normal)...
+[2024.12.05-12.24.38:911][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/BrickWall_low_07_-_Default_OcclusionRoughnessMetallic.BrickWall_low_07_-_Default_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:911][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/BrickWall_low_07_-_Default_BaseColor.BrickWall_low_07_-_Default_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:911][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/BrickWall_low_07_-_Default_Normal.BrickWall_low_07_-_Default_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.38:911][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Bricks01_Marble01_Normal.Bricks01_Marble01_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.39:232][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 26/117 (/Game/City_of_Brass_Enviroment/Textures/BrickWall_low_07_-_Default_BaseColor)...
+[2024.12.05-12.24.39:303][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 29/117 (/Game/City_of_Brass_Enviroment/Textures/Stonework_Brickwall_LowHeightMap)...
+[2024.12.05-12.24.39:528][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stonework_Brickwall_LowHeightMap.Stonework_Brickwall_LowHeightMap(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.39:528][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Wall_Tiles_BaseColor.Wall_Tiles_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.39:528][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Wall_Tiles_Normal.Wall_Tiles_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.39:528][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Wall_Tiles_OcclusionRoughnessMetallic.Wall_Tiles_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:462][810]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.12.05-12.24.41:462][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/Greyscale_Base02.Greyscale_Base02(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:462][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/Flat_N.Flat_N(TFO_BC5, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Details-Platform.Details-Platform(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/FlatWall_low_07_-_Default_OcclusionRoughnessMetallic.FlatWall_low_07_-_Default_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/COB_Star_Low_COB_Star_BaseColor.COB_Star_Low_COB_Star_BaseColor(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/BrickWall_Mask.BrickWall_Mask(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/COB_Star_Low_COB_Star_Normal.COB_Star_Low_COB_Star_Normal(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/flatwall_low_normal_map_from_mesh.flatwall_low_normal_map_from_mesh(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/COB_Star_Low_COB_Star_OcclusionRoughnessMetallic.COB_Star_Low_COB_Star_OcclusionRoughnessMetallic(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_BaseColorR.Trims_low_sub_02_-_Default_BaseColorR(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/WoodenBoards_D.WoodenBoards_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_OcclusionRoughnessMetallicR.Trims_low_sub_02_-_Default_OcclusionRoughnessMetallicR(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_NormalR.Trims_low_sub_02_-_Default_NormalR(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/WoodenBoards_M.WoodenBoards_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:463][810]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049786s
+[2024.12.05-12.24.41:486][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 43/117 (/Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_NormalR)...
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: ================================================
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Total job queries 1093, among them cache hits 0 (0.00%)
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Shaders Compiled: 1093
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Jobs assigned 54, completed 2 (3.70%)
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Time job spent in pending queue: average 0.83 s, longest 5.26 s
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Job execution time: average 5.28 s, max 5.28 s
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Job life time (pending + execution): average 5.37 s, max 5.37
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.37 s
+[2024.12.05-12.24.41:486][810]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 6.00 jobs/batch
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display: Average processing rate: 0.37 jobs/sec
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display: Effective parallelization: 0.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 73.91% of total time (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.09% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2024.12.05-12.24.41:487][810]LogShaderCompilers: Display: ================================================
+[2024.12.05-12.24.41:643][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/WoodenBoards_N.WoodenBoards_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:643][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 44/117 (/Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_OcclusionRoughnessMetallicR)...
+[2024.12.05-12.24.41:704][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Brick_low_09_-_Default_BaseColor.Brick_low_09_-_Default_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:724][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Brick_low_09_-_Default_OcclusionRoughnessMetallic.Brick_low_09_-_Default_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:724][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 48/117 (/Game/City_of_Brass_Enviroment/Textures/Brick_low_09_-_Default_BaseColor)...
+[2024.12.05-12.24.41:879][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stonework_low_DefaultMaterial_BaseColor.Stonework_low_DefaultMaterial_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:879][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Brick_low_09_-_Default_Normal.Brick_low_09_-_Default_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.41:966][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 49/117 (/Game/City_of_Brass_Enviroment/Textures/Brick_low_09_-_Default_Normal)...
+[2024.12.05-12.24.42:086][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stonework_low_DefaultMaterial_OcclusionRoughnessMetallic.Stonework_low_DefaultMaterial_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:172][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 52/117 (/Game/City_of_Brass_Enviroment/Textures/Stonework_low_DefaultMaterial_Normal)...
+[2024.12.05-12.24.42:293][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stonework_low_DefaultMaterial_Normal.Stonework_low_DefaultMaterial_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:293][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Corridor_A_WIndows_Low_Windows_BaseColor.Corridor_A_WIndows_Low_Windows_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:293][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Corridor_A_WIndows_Low_Windows_Normal.Corridor_A_WIndows_Low_Windows_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:501][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Corridor_A_WIndows_Low_Windows_OcclusionRoughnessMetallic.Corridor_A_WIndows_Low_Windows_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:543][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 55/117 (/Game/City_of_Brass_Enviroment/Textures/Corridor_A_WIndows_Low_Windows_Normal)...
+[2024.12.05-12.24.42:572][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/PlanarRockChips2_M.PlanarRockChips2_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:572][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 56/117 (/Game/City_of_Brass_Enviroment/Textures/Corridor_A_WIndows_Low_Windows_OcclusionRoughnessMetallic)...
+[2024.12.05-12.24.42:710][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/PlanarRockChips2_N.PlanarRockChips2_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:710][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/PlanarRockChips2_D.PlanarRockChips2_D(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:782][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/CityWall_Pillar_LOW_yyyy_Red.CityWall_Pillar_LOW_yyyy_Red(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:782][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 57/117 (/Game/City_of_Brass_Enviroment/Textures/PlanarRockChips2_D)...
+[2024.12.05-12.24.42:918][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/LightPieces_D.LightPieces_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:918][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/LightPieces_M.LightPieces_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:982][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/LightPieces_N.LightPieces_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:982][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/WhipPoint_D.WhipPoint_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.42:982][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 63/117 (/Game/City_of_Brass_Enviroment/Textures/LightPieces_N)...
+[2024.12.05-12.24.43:007][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/WhipPoint_M.WhipPoint_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:007][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/WhipPoint_N.WhipPoint_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:007][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 64/117 (/Game/City_of_Brass_Enviroment/Textures/WhipPoint_D)...
+[2024.12.05-12.24.43:068][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 65/117 (/Game/City_of_Brass_Enviroment/Textures/WhipPoint_M)...
+[2024.12.05-12.24.43:091][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/ArchWindow_D.ArchWindow_D(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:091][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 67/117 (/Game/City_of_Brass_Enviroment/Textures/Ceiling_Curtain_low_ceiling_curtain_BaseColor)...
+[2024.12.05-12.24.43:125][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/Streaks01_D.Streaks01_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:334][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Ceiling_Curtain_low_ceiling_curtain_BaseColor.Ceiling_Curtain_low_ceiling_curtain_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:334][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Ceiling_Curtain_low_ceiling_curtain_OcclusionRoughnessMetallic.Ceiling_Curtain_low_ceiling_curtain_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:334][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stall_D.Stall_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:334][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Ceiling_Curtain_low_ceiling_curtain_Normal.Ceiling_Curtain_low_ceiling_curtain_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:534][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stall_M.Stall_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:534][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 68/117 (/Game/City_of_Brass_Enviroment/Textures/Ceiling_Curtain_low_ceiling_curtain_Normal)...
+[2024.12.05-12.24.43:670][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Stall_N.Stall_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:670][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Streaks01_D.Streaks01_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:670][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 69/117 (/Game/City_of_Brass_Enviroment/Textures/Ceiling_Curtain_low_ceiling_curtain_OcclusionRoughnessMetallic)...
+[2024.12.05-12.24.43:702][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 76/117 (/Game/City_of_Brass_Enviroment/Textures/T_vines_d)...
+[2024.12.05-12.24.43:754][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/T_vines_d.T_vines_d(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:962][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/vines_n.vines_n(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:962][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/vines_m.vines_m(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:962][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Garden_Lattice_D.Garden_Lattice_D(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.43:963][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 77/117 (/Game/City_of_Brass_Enviroment/Textures/vines_m)...
+[2024.12.05-12.24.44:025][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 78/117 (/Game/City_of_Brass_Enviroment/Textures/vines_n)...
+[2024.12.05-12.24.44:056][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 79/117 (/Game/City_of_Brass_Enviroment/Textures/Garden_Lattice_D)...
+[2024.12.05-12.24.44:137][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/GardenTiles_D.GardenTiles_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:137][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Garden_Lattice_M.Garden_Lattice_M(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:137][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 80/117 (/Game/City_of_Brass_Enviroment/Textures/Garden_Lattice_M)...
+[2024.12.05-12.24.44:172][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/GardenTiles_M.GardenTiles_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:377][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/GardenTiles_N.GardenTiles_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:377][810]LogStaticMesh: Built static mesh [7.38s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Coirridor_A_Shrine03.Coirridor_A_Shrine03
+[2024.12.05-12.24.44:377][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Garden_Lattice_N.Garden_Lattice_N(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:377][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Garden_Trims_D.Garden_Trims_D(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:378][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 81/117 (/Game/City_of_Brass_Enviroment/Textures/Garden_Lattice_N)...
+[2024.12.05-12.24.44:536][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/LightPatterns_D.LightPatterns_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:536][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Garden_Trims_M.Garden_Trims_M(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:536][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 85/117 (/Game/City_of_Brass_Enviroment/Textures/Garden_Trims_D)...
+[2024.12.05-12.24.44:587][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Garden_Trims_N.Garden_Trims_N(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:662][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Bricks01_marble01_OcclusionRoughnessMetallic.Bricks01_marble01_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:662][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Bricks01_marble01_BaseColor.Bricks01_marble01_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:662][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 86/117 (/Game/City_of_Brass_Enviroment/Textures/Garden_Trims_M)...
+[2024.12.05-12.24.44:862][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/MarbleBrick01_MarkbleBrick01_BaseColor.MarbleBrick01_MarkbleBrick01_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.44:862][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 87/117 (/Game/City_of_Brass_Enviroment/Textures/Garden_Trims_N)...
+[2024.12.05-12.24.44:942][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 89/117 (/Game/City_of_Brass_Enviroment/Textures/Bricks01_marble01_BaseColor)...
+[2024.12.05-12.24.45:010][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/MarbleBrick01_MarkbleBrick01_OcclusionRoughnessMetallic.MarbleBrick01_MarkbleBrick01_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:043][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 91/117 (/Game/City_of_Brass_Enviroment/Textures/MarbleBrick01_MarkbleBrick01_BaseColor)...
+[2024.12.05-12.24.45:214][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_Palace_BaseColor.Trims_low_sub_Palace_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:214][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_Palace_Normal.Trims_low_sub_Palace_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:214][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_Palace_OcclusionRoughnessMetallic.Trims_low_sub_Palace_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:344][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 93/117 (/Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_Palace_BaseColor)...
+[2024.12.05-12.24.45:430][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Small_Loot_Low_DefaultMaterial_BaseColor.Small_Loot_Low_DefaultMaterial_BaseColor(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:430][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/T_TilingNoise03.T_TilingNoise03(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:627][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Small_Loot_Low_DefaultMaterial_Normal.Small_Loot_Low_DefaultMaterial_Normal(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:627][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Small_Loot_Low_DefaultMaterial_OcclusionRoughnessMetallic.Small_Loot_Low_DefaultMaterial_OcclusionRoughnessMetallic(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:627][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Door03_D.Door03_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:627][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Door03_M.Door03_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:627][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 99/117 (/Game/City_of_Brass_Enviroment/Textures/Small_Loot_Low_DefaultMaterial_OcclusionRoughnessMetallic)...
+[2024.12.05-12.24.45:644][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Door03_N.Door03_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:644][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/T_Flag_M.T_Flag_M(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:681][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 100/117 (/Game/City_of_Brass_Enviroment/Textures/Door03_D)...
+[2024.12.05-12.24.45:720][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Materials/Textures/T_Flag_N.T_Flag_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:720][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 103/117 (/Game/City_of_Brass_Enviroment/Materials/Textures/T_Flag_M)...
+[2024.12.05-12.24.45:745][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 104/117 (/Game/City_of_Brass_Enviroment/Materials/Textures/T_Flag_N)...
+[2024.12.05-12.24.45:765][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 105/117 (/Game/City_of_Brass_Enviroment/Textures/Banner_BaseColor)...
+[2024.12.05-12.24.45:851][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Lantern_Large_DD.Lantern_Large_DD(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:851][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Lantern_Large_M.Lantern_Large_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:851][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Banner_Low_Red_OcclusionRoughnessMetallic.Banner_Low_Red_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.45:851][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Banner_Low_Red_Normal.Banner_Low_Red_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:060][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Lantern_Large_N.Lantern_Large_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:060][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Banner_BaseColor.Banner_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:060][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_BaseColor.Trims_low_sub_02_-_Default_BaseColor(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:263][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Railing_D.Railing_D(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:263][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_Normal.Trims_low_sub_02_-_Default_Normal(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:264][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 111/117 (/Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_BaseColor)...
+[2024.12.05-12.24.46:473][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Railing_M.Railing_M(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:473][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_OcclusionRoughnessMetallic.Trims_low_sub_02_-_Default_OcclusionRoughnessMetallic(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:473][810]LogTexture: Display: 텍스처 빌드 중: /Game/City_of_Brass_Enviroment/Textures/Railing_N.Railing_N(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2024.12.05-12.24.46:473][810]LogStaticMesh: Display: Corridor_A_Awning03 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:473][810]LogStaticMesh: Display: Corridor_A_Awning02 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:492][810]LogStaticMesh: Display: Corridor_A_Awning04 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:492][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 112/117 (/Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_Normal)...
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Awning02.Corridor_A_Awning02
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Display: Corridor_A_Box02_Ex 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Box02_Ex.Corridor_A_Box02_Ex
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Display: Corridor_A_Door1200 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Built static mesh [0.10s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Awning03.Corridor_A_Awning03
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Display: Corridor_A_Door1200_Frame 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:601][810]LogStaticMesh: Display: Corridor_A_ExternalCorner1 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:601][810]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 113/117 (/Game/City_of_Brass_Enviroment/Textures/Trims_low_sub_02_-_Default_OcclusionRoughnessMetallic)...
+[2024.12.05-12.24.46:682][810]LogStaticMesh: Display: Corridor_A_Stairs_200 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Built static mesh [0.21s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Awning04.Corridor_A_Awning04
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Built static mesh [0.11s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_ExternalCorner1.Corridor_A_ExternalCorner1
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Display: Corridor_A_Stairs_400 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Display: Corridor_A_Wall_1200 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Built static mesh [0.14s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Door1200_Frame.Corridor_A_Door1200_Frame
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Display: Corridor_A_Wall_1200b 스태틱 메시 빌드 중...
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Built static mesh [0.09s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_1200b.Corridor_A_Wall_1200b
+[2024.12.05-12.24.46:884][810]LogStaticMesh: Display: Corridor_A_Wall_1200c 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:087][810]LogStaticMesh: Built static mesh [0.21s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_1200.Corridor_A_Wall_1200
+[2024.12.05-12.24.47:087][810]LogStaticMesh: Display: Corridor_A_Wall_1600 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:087][810]LogStaticMesh: Built static mesh [0.21s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_1200c.Corridor_A_Wall_1200c
+[2024.12.05-12.24.47:087][810]LogStaticMesh: Display: Corridor_A_Wall_1600_Special1 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:087][810]LogStaticMesh: Built static mesh [0.39s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Stairs_200.Corridor_A_Stairs_200
+[2024.12.05-12.24.47:087][810]LogStaticMesh: Display: Corridor_A_Wall_2000 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:289][810]LogStaticMesh: Built static mesh [0.38s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_1600.Corridor_A_Wall_1600
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Display: Corridor_A_Wall_2400 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Built static mesh [0.83s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Door1200.Corridor_A_Door1200
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Display: Corridor_A_Wall_400 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Built static mesh [0.03s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_400.Corridor_A_Wall_400
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Display: Corridor_A_Wall_407 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Built static mesh [0.77s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Stairs_400.Corridor_A_Stairs_400
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Display: Corridor_A_Wall_409 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Built static mesh [0.07s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_407.Corridor_A_Wall_407
+[2024.12.05-12.24.47:492][810]LogStaticMesh: Display: Corridor_A_Wall_800 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.09s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_409.Corridor_A_Wall_409
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Corridor_A_Wall_Box 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.11s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_800.Corridor_A_Wall_800
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Corridor_A_Wall_Extension01 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.06s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_Box.Corridor_A_Wall_Box
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Corridor_Gardens_Awning_B 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.00s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Gardens/Corridor_Gardens_Awning_B.Corridor_Gardens_Awning_B
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Corridor_Gardens_Awning_B_Plants 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Gardens/Corridor_Gardens_Awning_B_Plants.Corridor_Gardens_Awning_B_Plants
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Corridor_Gardens_Awning_C 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.00s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Gardens/Corridor_Gardens_Awning_C.Corridor_Gardens_Awning_C
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Corridor_Gardens_Awning_C_Plants 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Gardens/Corridor_Gardens_Awning_C_Plants.Corridor_Gardens_Awning_C_Plants
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Garden_Lattice_Box01 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Gardens/Garden_Lattice_Box01.Garden_Lattice_Box01
+[2024.12.05-12.24.47:694][810]LogStaticMesh: Display: Coirridor_Palace_WallShort_Corner_Lamp 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.03s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Palace/Coirridor_Palace_WallShort_Corner_Lamp.Coirridor_Palace_WallShort_Corner_Lamp
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Corridor_Palace_Door_A_02 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Palace/Corridor_Palace_Door_A_02.Corridor_Palace_Door_A_02
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Palace_Tower01 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.08s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_Palace/Palace_Tower01.Palace_Tower01
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Door03_A 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Doors/Door03_A.Door03_A
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Door03_B 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Doors/Door03_B.Door03_B
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Banner_Large 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.03s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Banner_Large.Banner_Large
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Banner_Ribboms 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.02s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Banner_Ribboms.Banner_Ribboms
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: Banner_Small 스태틱 메시 빌드 중...
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.30s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_Extension01.Corridor_A_Wall_Extension01
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Built static mesh [0.02s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Banner_Small.Banner_Small
+[2024.12.05-12.24.47:897][810]LogStaticMesh: Display: CityStar 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.00s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/CityStar.CityStar
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Light06 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Light07 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Light06.Light06
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: LightPost 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.03s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Light07.Light07
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Wall_Lantern_02 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/LightPost.LightPost
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Whip_Point_Beam 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.03s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Wall_Lantern_02.Wall_Lantern_02
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.02s] /Game/City_of_Brass_Enviroment/Meshes/Dressing/Whip_Point_Beam.Whip_Point_Beam
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Corridor_A_Floor_Stones_800 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Corridor_A_Floor_Stones_1200 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Built static mesh [0.99s] /Game/City_of_Brass_Enviroment/Meshes/Corridor_A/Corridor_A_Wall_1600_Special1.Corridor_A_Wall_1600_Special1
+[2024.12.05-12.24.48:099][810]LogStaticMesh: Display: Corridor_A_Floor_Stones_A 스태틱 메시 빌드 중...
+[2024.12.05-12.24.48:299][810]LogStaticMesh: Built static mesh [0.28s] /Game/City_of_Brass_Enviroment/Meshes/Ground/Corridor_A_Floor_Stones_A.Corridor_A_Floor_Stones_A
+[2024.12.05-12.24.48:299][810]LogStaticMesh: Display: Corridor_A_Floor_Stones_B 스태틱 메시 빌드 중...
